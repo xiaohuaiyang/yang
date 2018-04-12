@@ -1,0 +1,147 @@
+2018-04-08 19:44:41.763 DEBUG [restartedMain] o.s.b.l.ClasspathLoggingApplicationListener - Application started with classpath: [file:/D:/Sunvalley/emailSpace/erp-product/target/classes/]
+2018-04-08 19:44:41.804 DEBUG [restartedMain] o.s.core.env.StandardEnvironment - Adding [systemProperties] PropertySource with lowest search precedence
+2018-04-08 19:44:41.804 DEBUG [restartedMain] o.s.core.env.StandardEnvironment - Adding [systemEnvironment] PropertySource with lowest search precedence
+2018-04-08 19:44:41.805 DEBUG [restartedMain] o.s.core.env.StandardEnvironment - Initialized StandardEnvironment with PropertySources [systemProperties,systemEnvironment]
+2018-04-08 19:44:41.855 DEBUG [restartedMain] o.s.c.a.ClassPathBeanDefinitionScanner - JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+2018-04-08 19:44:41.856 DEBUG [restartedMain] o.s.c.a.ClassPathBeanDefinitionScanner - JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+2018-04-08 19:44:41.885 DEBUG [restartedMain] o.s.boot.SpringApplication - Loading source class org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration,class org.springframework.cloud.bootstrap.encrypt.EncryptionBootstrapConfiguration,class org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration,class org.springframework.boot.autoconfigure.PropertyPlaceholderAutoConfiguration,class org.springframework.cloud.config.client.ConfigServiceBootstrapConfiguration,class org.springframework.cloud.config.client.DiscoveryClientConfigServiceBootstrapConfiguration,class org.springframework.cloud.netflix.eureka.config.EurekaDiscoveryClientConfigServiceBootstrapConfiguration
+2018-04-08 19:44:41.903 DEBUG [restartedMain] o.s.c.a.ClassPathBeanDefinitionScanner - JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+2018-04-08 19:44:41.903 DEBUG [restartedMain] o.s.c.a.ClassPathBeanDefinitionScanner - JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+2018-04-08 19:44:41.935 DEBUG [restartedMain] o.s.b.c.c.ConfigFileApplicationListener - Loaded config file 'file:/D:/Sunvalley/emailSpace/erp-product/target/classes/bootstrap.yml' (classpath:/bootstrap.yml)
+2018-04-08 19:44:41.935 DEBUG [restartedMain] o.s.b.c.c.ConfigFileApplicationListener - Skipped (empty) config file 'file:/D:/Sunvalley/emailSpace/erp-product/target/classes/bootstrap.yml' (classpath:/bootstrap.yml) for profile default
+2018-04-08 19:44:41.936 DEBUG [restartedMain] o.s.c.a.AnnotationConfigApplicationContext - Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@220f4a98: org.springframework.beans.factory.support.DefaultListableBeanFactory@3f684bf2: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.event.internalEventListenerProcessor,org.springframework.context.event.internalEventListenerFactory,propertySourceBootstrapConfiguration,encryptionBootstrapConfiguration,configurationPropertiesRebinderAutoConfiguration,propertyPlaceholderAutoConfiguration,configServiceBootstrapConfiguration]; root of factory hierarchy
+2018-04-08 19:44:42.033 DEBUG [background-preinit] org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider found via system property
+2018-04-08 19:44:42.056 DEBUG [background-preinit] o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-04-08 19:44:42.076 DEBUG [restartedMain] o.s.c.a.ConfigurationClassBeanDefinitionReader - Registering bean definition for @Bean method org.springframework.cloud.bootstrap.encrypt.EncryptionBootstrapConfiguration.environmentDecryptApplicationListener()
+2018-04-08 19:44:42.090 DEBUG [restartedMain] o.s.c.a.ConfigurationClassBeanDefinitionReader - Registering bean definition for @Bean method org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration.configurationPropertiesBeans()
+2018-04-08 19:44:42.091 DEBUG [restartedMain] o.s.c.a.ConfigurationClassBeanDefinitionReader - Registering bean definition for @Bean method org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration.configurationPropertiesRebinder()
+2018-04-08 19:44:42.092 DEBUG [restartedMain] o.s.c.a.ConfigurationClassBeanDefinitionReader - Registered bean definition for imported class 'org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration'
+2018-04-08 19:44:42.095 DEBUG [restartedMain] o.s.c.a.ConfigurationClassBeanDefinitionReader - Registering bean definition for @Bean method org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration.propertySourcesPlaceholderConfigurer()
+2018-04-08 19:44:42.095 DEBUG [restartedMain] o.s.c.a.ConfigurationClassBeanDefinitionReader - Registering bean definition for @Bean method org.springframework.cloud.config.client.ConfigServiceBootstrapConfiguration.configClientProperties()
+2018-04-08 19:44:42.096 DEBUG [restartedMain] o.s.c.a.ConfigurationClassBeanDefinitionReader - Registering bean definition for @Bean method org.springframework.cloud.config.client.ConfigServiceBootstrapConfiguration.configServicePropertySource()
+2018-04-08 19:44:42.150 DEBUG [restartedMain] o.s.c.a.ConfigurationClassEnhancer - Successfully enhanced org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration; enhanced class name is: org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration$$EnhancerBySpringCGLIB$$4ba0db4c
+2018-04-08 19:44:42.152 DEBUG [restartedMain] o.s.c.a.ConfigurationClassEnhancer - Successfully enhanced org.springframework.cloud.bootstrap.encrypt.EncryptionBootstrapConfiguration; enhanced class name is: org.springframework.cloud.bootstrap.encrypt.EncryptionBootstrapConfiguration$$EnhancerBySpringCGLIB$$a85d1e3c
+2018-04-08 19:44:42.154 DEBUG [restartedMain] o.s.c.a.ConfigurationClassEnhancer - Successfully enhanced org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration; enhanced class name is: org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$b80dbfe0
+2018-04-08 19:44:42.156 DEBUG [restartedMain] o.s.c.a.ConfigurationClassEnhancer - Successfully enhanced org.springframework.boot.autoconfigure.PropertyPlaceholderAutoConfiguration; enhanced class name is: org.springframework.boot.autoconfigure.PropertyPlaceholderAutoConfiguration$$EnhancerBySpringCGLIB$$53d0655d
+2018-04-08 19:44:42.158 DEBUG [restartedMain] o.s.c.a.ConfigurationClassEnhancer - Successfully enhanced org.springframework.cloud.config.client.ConfigServiceBootstrapConfiguration; enhanced class name is: org.springframework.cloud.config.client.ConfigServiceBootstrapConfiguration$$EnhancerBySpringCGLIB$$ad97576c
+2018-04-08 19:44:42.159 DEBUG [restartedMain] o.s.c.a.ConfigurationClassEnhancer - Successfully enhanced org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration; enhanced class name is: org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration$$EnhancerBySpringCGLIB$$9caa2f1c
+2018-04-08 19:44:42.159 DEBUG [restartedMain] o.s.c.a.ConfigurationClassEnhancer - Successfully enhanced org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration; enhanced class name is: org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration$$EnhancerBySpringCGLIB$$9caa2f1c
+2018-04-08 19:44:42.160 DEBUG [restartedMain] o.s.core.env.StandardEnvironment - Adding [applicationConfig: [classpath:/bootstrap.yml]] PropertySource with search precedence immediately lower than [applicationConfigurationProperties]
+2018-04-08 19:44:42.160 DEBUG [restartedMain] o.s.core.env.StandardEnvironment - Removing [applicationConfigurationProperties] PropertySource
+2018-04-08 19:44:42.160 DEBUG [restartedMain] o.s.core.env.StandardEnvironment - Removing [defaultProperties] PropertySource
+2018-04-08 19:44:42.160 DEBUG [restartedMain] o.s.core.env.StandardEnvironment - Adding [defaultProperties] PropertySource with lowest search precedence
+2018-04-08 19:44:42.222 DEBUG [restartedMain] o.s.core.env.StandardEnvironment - Adding [systemProperties] PropertySource with lowest search precedence
+2018-04-08 19:44:42.223 DEBUG [restartedMain] o.s.core.env.StandardEnvironment - Adding [systemEnvironment] PropertySource with lowest search precedence
+2018-04-08 19:44:42.223 DEBUG [restartedMain] o.s.core.env.StandardEnvironment - Initialized StandardEnvironment with PropertySources [systemProperties,systemEnvironment]
+2018-04-08 19:44:42.259 DEBUG [restartedMain] o.s.c.a.AnnotationConfigApplicationContext - Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@445690ac]
+2018-04-08 19:44:42.260 DEBUG [restartedMain] o.s.c.a.AnnotationConfigApplicationContext - Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@4cfab778]
+2018-04-08 19:44:42.270 DEBUG [restartedMain] o.s.b.f.annotation.InjectionMetadata - Registered injected element on class [org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration$$EnhancerBySpringCGLIB$$4ba0db4c]: AutowiredFieldElement for private java.util.List org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration.propertySourceLocators
+2018-04-08 19:44:42.275 DEBUG [restartedMain] o.s.b.f.annotation.InjectionMetadata - Processing injected element of bean 'propertySourceBootstrapConfiguration': AutowiredFieldElement for private java.util.List org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration.propertySourceLocators
+2018-04-08 19:44:42.279 DEBUG [restartedMain] o.s.b.f.annotation.InjectionMetadata - Registered injected element on class [org.springframework.cloud.config.client.ConfigServiceBootstrapConfiguration$$EnhancerBySpringCGLIB$$ad97576c]: AutowiredFieldElement for private org.springframework.core.env.ConfigurableEnvironment org.springframework.cloud.config.client.ConfigServiceBootstrapConfiguration.environment
+2018-04-08 19:44:42.283 DEBUG [restartedMain] o.s.b.f.annotation.InjectionMetadata - Processing injected element of bean 'configServiceBootstrapConfiguration': AutowiredFieldElement for private org.springframework.core.env.ConfigurableEnvironment org.springframework.cloud.config.client.ConfigServiceBootstrapConfiguration.environment
+2018-04-08 19:44:42.283 DEBUG [restartedMain] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowiring by type from bean name 'configServiceBootstrapConfiguration' to bean named 'environment'
+2018-04-08 19:44:42.290 DEBUG [restartedMain] o.s.b.f.annotation.InjectionMetadata - Registered injected element on class [org.springframework.cloud.config.client.ConfigClientProperties]: AutowiredFieldElement for private java.lang.String org.springframework.cloud.config.client.ConfigClientProperties.name
+2018-04-08 19:44:42.292 DEBUG [restartedMain] o.s.b.f.annotation.InjectionMetadata - Processing injected element of bean 'configClientProperties': AutowiredFieldElement for private java.lang.String org.springframework.cloud.config.client.ConfigClientProperties.name
+2018-04-08 19:44:42.343 DEBUG [restartedMain] o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-04-08 19:44:42.350 DEBUG [restartedMain] o.h.v.i.e.r.DefaultTraversableResolver - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2018-04-08 19:44:42.353 DEBUG [restartedMain] o.h.v.i.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2018-04-08 19:44:42.354 DEBUG [restartedMain] o.h.v.i.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2018-04-08 19:44:42.355 DEBUG [restartedMain] o.h.v.i.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy36
+2018-04-08 19:44:42.356 DEBUG [restartedMain] o.h.v.i.xml.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2018-04-08 19:44:42.357 DEBUG [restartedMain] o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+2018-04-08 19:44:42.358 DEBUG [restartedMain] o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+2018-04-08 19:44:42.358 DEBUG [restartedMain] o.h.v.i.xml.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2018-04-08 19:44:42.358 DEBUG [restartedMain] o.h.v.i.xml.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+2018-04-08 19:44:42.426 DEBUG [restartedMain] o.s.b.f.annotation.InjectionMetadata - Processing injected element of bean 'org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor': AutowiredMethodElement for public void org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor.setGenericConverters(java.util.List)
+2018-04-08 19:44:42.427 DEBUG [restartedMain] o.s.b.f.annotation.InjectionMetadata - Processing injected element of bean 'org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor': AutowiredMethodElement for public void org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor.setConverters(java.util.List)
+2018-04-08 19:44:42.446 DEBUG [restartedMain] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowiring by type from bean name 'propertySourceBootstrapConfiguration' to bean named 'configServicePropertySource'
+2018-04-08 19:44:42.446 DEBUG [restartedMain] o.s.b.f.annotation.InjectionMetadata - Registered injected element on class [org.springframework.cloud.bootstrap.encrypt.EncryptionBootstrapConfiguration$$EnhancerBySpringCGLIB$$a85d1e3c]: AutowiredFieldElement for private org.springframework.security.crypto.encrypt.TextEncryptor org.springframework.cloud.bootstrap.encrypt.EncryptionBootstrapConfiguration.encryptor
+2018-04-08 19:44:42.447 DEBUG [restartedMain] o.s.b.f.annotation.InjectionMetadata - Registered injected element on class [org.springframework.cloud.bootstrap.encrypt.EncryptionBootstrapConfiguration$$EnhancerBySpringCGLIB$$a85d1e3c]: AutowiredFieldElement for private org.springframework.cloud.bootstrap.encrypt.KeyProperties org.springframework.cloud.bootstrap.encrypt.EncryptionBootstrapConfiguration.key
+2018-04-08 19:44:42.450 DEBUG [restartedMain] o.s.b.f.annotation.InjectionMetadata - Processing injected element of bean 'encryptionBootstrapConfiguration': AutowiredFieldElement for private org.springframework.security.crypto.encrypt.TextEncryptor org.springframework.cloud.bootstrap.encrypt.EncryptionBootstrapConfiguration.encryptor
+2018-04-08 19:44:42.450 DEBUG [restartedMain] o.s.b.f.annotation.InjectionMetadata - Processing injected element of bean 'encryptionBootstrapConfiguration': AutowiredFieldElement for private org.springframework.cloud.bootstrap.encrypt.KeyProperties org.springframework.cloud.bootstrap.encrypt.EncryptionBootstrapConfiguration.key
+2018-04-08 19:44:42.456 DEBUG [restartedMain] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowiring by type from bean name 'encryptionBootstrapConfiguration' to bean named 'encrypt-org.springframework.cloud.bootstrap.encrypt.KeyProperties'
+2018-04-08 19:44:42.529 DEBUG [restartedMain] o.s.c.a.AnnotationConfigApplicationContext - Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@7a699f3a]
+2018-04-08 19:44:42.532 DEBUG [restartedMain] o.s.b.a.l.AutoConfigurationReportLoggingInitializer - 
+
+
+=========================
+AUTO-CONFIGURATION REPORT
+=========================
+
+
+Positive matches:
+-----------------
+
+   ConfigServiceBootstrapConfiguration#configServicePropertySource matched:
+      - @ConditionalOnProperty (spring.cloud.config.enabled) matched (OnPropertyCondition)
+
+   ConfigurationPropertiesRebinderAutoConfiguration matched:
+      - @ConditionalOnBean (types: org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor; SearchStrategy: all) found bean 'org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor' (OnBeanCondition)
+
+   ConfigurationPropertiesRebinderAutoConfiguration#configurationPropertiesBeans matched:
+      - @ConditionalOnMissingBean (types: org.springframework.cloud.context.properties.ConfigurationPropertiesBeans; SearchStrategy: current) did not find any beans (OnBeanCondition)
+
+   ConfigurationPropertiesRebinderAutoConfiguration#configurationPropertiesRebinder matched:
+      - @ConditionalOnMissingBean (types: org.springframework.cloud.context.properties.ConfigurationPropertiesRebinder; SearchStrategy: current) did not find any beans (OnBeanCondition)
+
+   EncryptionBootstrapConfiguration matched:
+      - @ConditionalOnClass found required class 'org.springframework.security.crypto.encrypt.TextEncryptor'; @ConditionalOnMissingClass did not find unwanted class (OnClassCondition)
+
+   PropertyPlaceholderAutoConfiguration#propertySourcesPlaceholderConfigurer matched:
+      - @ConditionalOnMissingBean (types: org.springframework.context.support.PropertySourcesPlaceholderConfigurer; SearchStrategy: current) did not find any beans (OnBeanCondition)
+
+
+Negative matches:
+-----------------
+
+   ConfigServiceBootstrapConfiguration.RetryConfiguration:
+      Did not match:
+         - @ConditionalOnProperty (spring.cloud.config.failFast) did not find property 'spring.cloud.config.failFast' (OnPropertyCondition)
+      Matched:
+         - @ConditionalOnClass found required classes 'org.springframework.retry.annotation.Retryable', 'org.aspectj.lang.annotation.Aspect', 'org.springframework.boot.autoconfigure.aop.AopAutoConfiguration'; @ConditionalOnMissingClass did not find unwanted class (OnClassCondition)
+
+   DiscoveryClientConfigServiceBootstrapConfiguration:
+      Did not match:
+         - @ConditionalOnProperty (spring.cloud.config.discovery.enabled) did not find property 'spring.cloud.config.discovery.enabled' (OnPropertyCondition)
+
+   EncryptionBootstrapConfiguration.RsaEncryptionConfiguration:
+      Did not match:
+         - Keystore nor key found in Environment (EncryptionBootstrapConfiguration.KeyCondition)
+      Matched:
+         - @ConditionalOnClass found required class 'org.springframework.security.rsa.crypto.RsaSecretEncryptor'; @ConditionalOnMissingClass did not find unwanted class (OnClassCondition)
+
+   EncryptionBootstrapConfiguration.VanillaEncryptionConfiguration:
+      Did not match:
+         - @ConditionalOnMissingClass found unwanted class 'org.springframework.security.rsa.crypto.RsaSecretEncryptor' (OnClassCondition)
+
+   EurekaDiscoveryClientConfigServiceBootstrapConfiguration:
+      Did not match:
+         - @ConditionalOnProperty (spring.cloud.config.discovery.enabled) did not find property 'spring.cloud.config.discovery.enabled' (OnPropertyCondition)
+      Matched:
+         - @ConditionalOnClass found required class 'org.springframework.cloud.config.client.ConfigServicePropertySourceLocator'; @ConditionalOnMissingClass did not find unwanted class (OnClassCondition)
+
+
+Exclusions:
+-----------
+
+    None
+
+
+Unconditional classes:
+----------------------
+
+    None
+
+
+
+2018-04-08 19:44:42.535 DEBUG [restartedMain] o.s.boot.devtools.restart.Restarter - Creating new Restarter for thread Thread[main,5,main]
+2018-04-08 19:44:42.537 DEBUG [restartedMain] o.s.boot.devtools.restart.Restarter - Immediately restarting application
+2018-04-08 19:44:42.537 DEBUG [restartedMain] o.s.boot.devtools.restart.Restarter - Created RestartClassLoader org.springframework.boot.devtools.restart.classloader.RestartClassLoader@7035d9f4
+2018-04-08 19:44:42.537 DEBUG [restartedMain] o.s.boot.devtools.restart.Restarter - Starting application com.sunvalley.erp.product.ProductServiceApplication with URLs [file:/D:/Sunvalley/emailSpace/erp-product/target/classes/]
+2018-04-08 19:44:42.538 DEBUG [restartedMain] o.s.core.env.StandardEnvironment - Removing [bootstrap] PropertySource
+2018-04-08 19:44:42.538 DEBUG [restartedMain] o.s.w.c.s.StandardServletEnvironment - Adding [defaultProperties] PropertySource with lowest search precedence
+2018-04-08 19:44:42.539 DEBUG [restartedMain] o.s.core.env.StandardEnvironment - Removing [applicationConfig: [classpath:/bootstrap.yml]] PropertySource
+2018-04-08 19:44:42.540 DEBUG [restartedMain] o.s.core.env.StandardEnvironment - Removing [springCloudClientHostInfo] PropertySource
+2018-04-08 19:44:42.540 DEBUG [restartedMain] o.s.core.env.StandardEnvironment - Removing [refresh] PropertySource
+2018-04-08 19:44:42.540 DEBUG [restartedMain] o.s.w.c.s.StandardServletEnvironment - Replacing [defaultProperties] PropertySource with [defaultProperties]
+2018-04-08 19:44:42.540 DEBUG [restartedMain] o.s.core.env.StandardEnvironment - Replacing [defaultProperties] PropertySource with [defaultProperties]

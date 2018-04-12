@@ -12,10 +12,4 @@ import org.springframework.web.client.RestTemplate;
 @Service
 public class HelloService {
 
-    @Autowired
-    private RestTemplate restTemplate;
-
-    public String hiService (String name){
-        return restTemplate.getForObject("http://EUREKA-CLIENT/hi?name="+name,String.class);
-    }
 }

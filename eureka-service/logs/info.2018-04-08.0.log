@@ -1,0 +1,175 @@
+2018-04-08 19:44:41.935 INFO  [restartedMain] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@220f4a98: startup date [Sun Apr 08 19:44:41 CST 2018]; root of context hierarchy
+2018-04-08 19:44:42.034 INFO  [background-preinit] o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2018-04-08 19:44:42.181 INFO  [restartedMain] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-04-08 19:44:43.081 INFO  [restartedMain] o.s.c.b.c.PropertySourceBootstrapConfiguration - Located property source: CompositePropertySource [name='configService', propertySources=[MapPropertySource [name='configClient'], MapPropertySource [name='http://gitlab.sunvalley.com.cn/soft-dev/env-config.git/dev/erp-product-dev.yml']]]
+2018-04-08 19:44:43.179 INFO  [restartedMain] c.s.e.p.ProductServiceApplication - No active profile set, falling back to default profiles: default
+2018-04-08 19:44:43.226 INFO  [restartedMain] o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@67862a51: startup date [Sun Apr 08 19:44:43 CST 2018]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@220f4a98
+2018-04-08 19:44:45.128 INFO  [restartedMain] o.s.i.config.IntegrationRegistrar - No bean named 'integrationHeaderChannelRegistry' has been explicitly defined. Therefore, a default DefaultHeaderChannelRegistry will be created.
+2018-04-08 19:44:45.679 INFO  [restartedMain] o.s.cloud.context.scope.GenericScope - BeanFactory id=96f567cf-df75-3af4-8cbf-9a5e72e723d1
+2018-04-08 19:44:45.689 INFO  [restartedMain] o.s.i.c.DefaultConfiguringBeanFactoryPostProcessor - No bean named 'errorChannel' has been explicitly defined. Therefore, a default PublishSubscribeChannel will be created.
+2018-04-08 19:44:45.694 INFO  [restartedMain] o.s.i.c.DefaultConfiguringBeanFactoryPostProcessor - No bean named 'taskScheduler' has been explicitly defined. Therefore, a default ThreadPoolTaskScheduler will be created.
+2018-04-08 19:44:45.708 INFO  [restartedMain] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-04-08 19:44:47.232 INFO  [restartedMain] o.s.b.c.e.t.TomcatEmbeddedServletContainer - Tomcat initialized with port(s): 8781 (http)
+2018-04-08 19:44:51.399 INFO  [localhost-startStop-1] o.s.b.w.s.ServletRegistrationBean - Mapping servlet: 'dispatcherServlet' to [/]
+2018-04-08 19:44:51.400 INFO  [localhost-startStop-1] o.s.b.w.s.ServletRegistrationBean - Mapping servlet: 'statViewServlet' to [/druid/*]
+2018-04-08 19:44:51.604 INFO  [restartedMain] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4e190f10: startup date [Sun Apr 08 19:44:51 CST 2018]; parent: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@67862a51
+2018-04-08 19:44:51.619 INFO  [restartedMain] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-04-08 19:44:52.559 INFO  [restartedMain] o.s.aop.framework.CglibAopProxy - Method [com.netflix.client.config.IClientConfig org.springframework.cloud.netflix.feign.ribbon.LoadBalancerFeignClient.getClientConfig(feign.Request$Options,java.lang.String)] is package-visible across different ClassLoaders and cannot get proxied via CGLIB: Declare this method as public or protected if you need to support invocations through the proxy.
+2018-04-08 19:44:54.625 INFO  [restartedMain] c.n.c.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2018-04-08 19:44:54.628 INFO  [restartedMain] c.n.config.DynamicPropertyFactory - DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@57e81e32
+2018-04-08 19:44:55.005 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@67862a51: startup date [Sun Apr 08 19:44:43 CST 2018]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@220f4a98
+2018-04-08 19:44:55.146 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/amazon/getProductBaseInfo]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.AmazonController.getProductBaseInfo(java.lang.String)
+2018-04-08 19:44:55.147 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/listing/log]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.AmazonListingLogController.saveAmazonListingLog(com.sunvalley.erp.product.to.AmazonListingLogTO)
+2018-04-08 19:44:55.148 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/bom/getBomInfo],consumes=[application/json]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.BomController.getBomInfo(java.lang.String)
+2018-04-08 19:44:55.148 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/bom/saveBomOneSkuList],consumes=[application/json]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.BomController.saveBomOneSkuList(java.lang.String)
+2018-04-08 19:44:55.148 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/bom/importPackageList],consumes=[application/json]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.BomController.importPackageList(java.lang.String)
+2018-04-08 19:44:55.148 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/index]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.HomeController.index()
+2018-04-08 19:44:55.149 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/prepsku/getByModelId]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.PrepSkuController.getByModelId(java.lang.String)
+2018-04-08 19:44:55.150 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/prepsku/getByModel]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.PrepSkuController.getByModel(java.lang.String)
+2018-04-08 19:44:55.150 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/prepsku/saveModel]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.PrepSkuController.saveModel(com.sunvalley.erp.product.to.PreSkuTO)
+2018-04-08 19:44:55.150 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/prepsku/getPreSkuGrid]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.PrepSkuController.getPreSkuGrid(java.util.HashMap<java.lang.String, java.lang.Object>)
+2018-04-08 19:44:55.150 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/prepsku/getPreSkuBaseInfo]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.PrepSkuController.getPreSkuBaseInfo(java.lang.String)
+2018-04-08 19:44:55.151 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/prepsku/listModelAndPreSku]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.PrepSkuController.listModelAndPreSku(java.lang.String)
+2018-04-08 19:44:55.151 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/prepsku/ListPackageSku]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.PrepSkuController.ListpackageSku(java.util.HashMap<java.lang.String, java.lang.Object>)
+2018-04-08 19:44:55.155 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/roadmap/add]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.RoadmapController.add(com.sunvalley.erp.product.modelEX.RoadmapEX)
+2018-04-08 19:44:55.155 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/roadmap/update]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.RoadmapController.update(com.sunvalley.erp.product.modelEX.RoadmapEX)
+2018-04-08 19:44:55.155 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/roadmap/delete]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.RoadmapController.delete(com.sunvalley.erp.product.modelEX.RoadmapEX)
+2018-04-08 19:44:55.155 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/roadmap/list]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.RoadmapController.list(com.sunvalley.erp.product.vo.QueryPageVO)
+2018-04-08 19:44:55.156 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/roadmap/save]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.RoadmapController.save(com.sunvalley.erp.product.modelEX.RoadmapEX)
+2018-04-08 19:44:55.156 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/roadmap/msDevelopTypeList]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.RoadmapController.msDevelopTypeList()
+2018-04-08 19:44:55.156 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/roadmap/exportSelectedProductData]}" onto public void com.sunvalley.erp.product.controller.RoadmapController.exportSelectedData(javax.servlet.http.HttpServletResponse,java.lang.String) throws java.lang.Exception
+2018-04-08 19:44:55.156 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/roadmap/getById]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.RoadmapController.getById(java.lang.String)
+2018-04-08 19:44:55.156 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/roadmap/productList]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.RoadmapController.productList(com.sunvalley.erp.product.vo.QueryPageVO)
+2018-04-08 19:44:55.156 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/roadmap/getProductById]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.RoadmapController.getProductById(java.lang.String)
+2018-04-08 19:44:55.157 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/roadmap/productAdd]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.RoadmapController.productAdd(com.sunvalley.erp.product.modelEX.RoadmapProductEX)
+2018-04-08 19:44:55.157 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/roadmap/productUpdate]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.RoadmapController.productUpdate(com.sunvalley.erp.product.modelEX.RoadmapProductEX)
+2018-04-08 19:44:55.157 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/roadmap/productSave]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.RoadmapController.productSave(com.sunvalley.erp.product.modelEX.RoadmapProductEX) throws java.lang.Exception
+2018-04-08 19:44:55.157 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/roadmap/brandList]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.RoadmapController.brandList()
+2018-04-08 19:44:55.157 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/roadmap/categoryList]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.RoadmapController.categoryList(java.lang.String)
+2018-04-08 19:44:55.157 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/roadmap/modelList]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.RoadmapController.modelList(java.lang.String)
+2018-04-08 19:44:55.157 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/roadmap/exportProductData]}" onto public void com.sunvalley.erp.product.controller.RoadmapController.exportData(javax.servlet.http.HttpServletResponse,com.sunvalley.erp.product.vo.QueryPageVO) throws java.lang.Exception
+2018-04-08 19:44:55.159 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/sku/getPackageInfo]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.SkuController.getPackageInfo(java.lang.String)
+2018-04-08 19:44:55.160 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/sku/searchSkuByModelId]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.SkuController.searchSkuByModelId(java.lang.String)
+2018-04-08 19:44:55.160 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/sku/saveSkuBaseInfo]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.SkuController.saveSkuBaseInfo(com.sunvalley.erp.product.to.SkuBaseInfoTO)
+2018-04-08 19:44:55.160 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/sku/getSkuBaseInfo/{sku}],methods=[GET]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.SkuController.getSkuBaseInfo(java.lang.String)
+2018-04-08 19:44:55.160 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/sku/getCustomsInfo/{skuId}]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.SkuController.getCustomsInfo(int)
+2018-04-08 19:44:55.160 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/sku/listBySameModel/{skuId}]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.SkuController.listBySameModel(java.lang.String)
+2018-04-08 19:44:55.160 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/sku/updateSkuBaseInfo]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.SkuController.updateSkuBaseInfo(com.sunvalley.erp.product.to.SkuBaseInfoTO)
+2018-04-08 19:44:55.160 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/sku/saveSkuMarketInfo]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.SkuController.saveSkuMarketInfo(com.sunvalley.erp.product.to.SkuMarketInfoTO)
+2018-04-08 19:44:55.161 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/sku/listSkuBySameModel]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.SkuController.listSkuBySameModel(java.lang.String)
+2018-04-08 19:44:55.161 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/sku/copyVirtualFromSku]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.SkuController.copyVirtualFromSku(java.lang.String)
+2018-04-08 19:44:55.161 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/sku/getSkuSimpleInfo]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.SkuController.getSkuSimpleInfo(java.lang.String)
+2018-04-08 19:44:55.164 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/sku/listSkuListNew]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.SkuController.listSkuListNew(java.lang.String)
+2018-04-08 19:44:55.164 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/sku/getSkuMarketInfo/{skuId}]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.SkuController.getSkuMarketInfo(int)
+2018-04-08 19:44:55.164 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/sku/listSkuFile/{skuId}]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.SkuController.listSkuFile(int)
+2018-04-08 19:44:55.164 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/sku/listSkuVideo/{skuId}]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.SkuController.listSkuVideo(int)
+2018-04-08 19:44:55.164 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/sku/listSkuImage/{sku}]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.SkuController.listSkuImage(java.lang.String)
+2018-04-08 19:44:55.165 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/sku/listPackageInfo]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.SkuController.listPackageInfo(com.sunvalley.erp.product.vo.QueryPageVO)
+2018-04-08 19:44:55.165 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/sku/savePackageInfo]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.SkuController.savePackageInfo(com.sunvalley.erp.product.vo.PackagInfoVO)
+2018-04-08 19:44:55.165 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/product/sku/searchModel]}" onto public com.sunvalley.erp.common.vo.BaseReturnVO com.sunvalley.erp.product.controller.SkuController.searchModel(java.lang.String)
+2018-04-08 19:44:55.167 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2018-04-08 19:44:55.168 INFO  [restartedMain] o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-04-08 19:44:55.322 INFO  [restartedMain] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Detected @ExceptionHandler methods in com.sunvalley.erp.common.aop.ExceptionAdvice
+2018-04-08 19:44:55.392 INFO  [restartedMain] o.s.w.s.h.SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-04-08 19:44:57.016 INFO  [restartedMain] o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService  'taskScheduler'
+2018-04-08 19:46:13.856 INFO  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2018-04-08 19:46:14.073 INFO  [restartedMain] c.n.c.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2018-04-08 19:46:14.459 INFO  [restartedMain] o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 
+2018-04-08 19:46:14.632 INFO  [restartedMain] o.s.i.c.kryo.CompositeKryoRegistrar - configured Kryo registration [40, java.io.File] with serializer org.springframework.integration.codec.kryo.FileSerializer
+2018-04-08 19:46:16.658 INFO  [restartedMain] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase -2147482648
+2018-04-08 19:46:17.034 INFO  [restartedMain] o.s.c.b.c.PropertySourceBootstrapConfiguration - Located property source: CompositePropertySource [name='configService', propertySources=[MapPropertySource [name='configClient'], MapPropertySource [name='http://gitlab.sunvalley.com.cn/soft-dev/env-config.git/dev/erp-product-dev.yml']]]
+2018-04-08 19:46:17.050 INFO  [restartedMain] c.s.e.p.ProductServiceApplication - No active profile set, falling back to default profiles: default
+2018-04-08 19:46:17.053 INFO  [restartedMain] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@1b76091a: startup date [Sun Apr 08 19:46:17 CST 2018]; parent: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@67862a51
+2018-04-08 19:46:17.087 INFO  [restartedMain] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-04-08 19:46:17.145 INFO  [restartedMain] o.s.c.s.GenericApplicationContext - Refreshing org.springframework.context.support.GenericApplicationContext@6eb6110a: startup date [Sun Apr 08 19:46:17 CST 2018]; root of context hierarchy
+2018-04-08 19:46:17.191 INFO  [restartedMain] c.s.e.p.ProductServiceApplication - Started ProductServiceApplication in 0.515 seconds (JVM running for 97.65)
+2018-04-08 19:46:17.246 INFO  [restartedMain] o.s.a.r.c.CachingConnectionFactory - Attempting to connect to: [10.20.0.153:5672]
+2018-04-08 19:46:17.299 INFO  [restartedMain] o.s.a.r.c.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#5731ab36:0/SimpleConnection@213c55df [delegate=amqp://rabbitmq@10.20.0.153:5672/, localPort= 53115]
+2018-04-08 19:46:17.344 INFO  [restartedMain] o.s.i.channel.DirectChannel - Channel 'erp-product:8781.sleuth' has 1 subscriber(s).
+2018-04-08 19:46:17.345 INFO  [restartedMain] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 0
+2018-04-08 19:46:17.358 INFO  [restartedMain] o.s.c.n.eureka.InstanceInfoFactory - Setting initial instance status as: STARTING
+2018-04-08 19:46:18.291 INFO  [restartedMain] c.n.discovery.InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2018-04-08 19:46:18.327 INFO  [restartedMain] o.s.c.n.e.s.EurekaServiceRegistry - Registering application erp-product with eureka with status UP
+2018-04-08 19:46:18.414 INFO  [restartedMain] o.s.i.endpoint.EventDrivenConsumer - Adding {logging-channel-adapter:_org.springframework.integration.errorLogger} as a subscriber to the 'errorChannel' channel
+2018-04-08 19:46:18.414 INFO  [restartedMain] o.s.i.c.PublishSubscribeChannel - Channel 'erp-product:8781.errorChannel' has 1 subscriber(s).
+2018-04-08 19:46:18.414 INFO  [restartedMain] o.s.i.endpoint.EventDrivenConsumer - started _org.springframework.integration.errorLogger
+2018-04-08 19:46:18.422 INFO  [restartedMain] o.s.i.e.SourcePollingChannelAdapter - started sleuthStreamSpanReporter.poll.inboundChannelAdapter
+2018-04-08 19:46:18.422 INFO  [restartedMain] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147482647
+2018-04-08 19:46:18.422 INFO  [restartedMain] o.s.c.s.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+2018-04-08 19:46:18.452 INFO  [restartedMain] o.s.c.n.h.HystrixCircuitBreakerConfiguration$HystrixMetricsPollerConfiguration - Starting poller
+2018-04-08 19:46:18.506 INFO  [restartedMain] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8781"]
+2018-04-08 19:46:18.519 INFO  [restartedMain] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8781"]
+2018-04-08 19:46:18.529 INFO  [restartedMain] o.a.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2018-04-08 19:46:18.571 INFO  [restartedMain] o.s.b.c.e.t.TomcatEmbeddedServletContainer - Tomcat started on port(s): 8781 (http)
+2018-04-08 19:46:18.571 INFO  [restartedMain] o.s.c.n.e.s.EurekaAutoServiceRegistration - Updating port to 8781
+2018-04-08 19:46:18.576 INFO  [restartedMain] c.s.e.p.ProductServiceApplication - Started ProductServiceApplication in 97.394 seconds (JVM running for 99.035)
+2018-04-08 19:46:18.695 INFO  [DiscoveryClient-InstanceInfoReplicator-0] c.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2018-04-08 19:46:18.725 INFO  [restartedMain] c.s.e.p.ProductServiceApplication - server start
+2018-04-08 19:49:25.910 INFO  [http-nio-8781-exec-2] o.s.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization started
+2018-04-08 19:49:25.959 INFO  [http-nio-8781-exec-2] o.s.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization completed in 49 ms
+2018-04-08 19:49:26.045 INFO  [http-nio-8781-exec-2] c.s.erp.common.aop.ExceptionAdvice - No mapping exception
+org.springframework.web.servlet.NoHandlerFoundException: No handler found for POST /product/sku/modelList
+	at org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1181)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:872)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:661)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.web.filter.ApplicationContextHeaderFilter.doFilterInternal(ApplicationContextHeaderFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:123)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.actuate.trace.WebRequestTraceFilter.doFilterInternal(WebRequestTraceFilter.java:110)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:105)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.cloud.sleuth.instrument.web.TraceFilter.doFilter(TraceFilter.java:153)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.actuate.autoconfigure.MetricsFilter.doFilterInternal(MetricsFilter.java:106)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+2018-04-08 19:49:26.605 INFO  [task-scheduler-3] o.s.i.c.kryo.CompositeKryoRegistrar - registering [40, java.io.File] with serializer org.springframework.integration.codec.kryo.FileSerializer

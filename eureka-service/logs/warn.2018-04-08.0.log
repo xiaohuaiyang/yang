@@ -1,0 +1,4 @@
+2018-04-08 19:44:54.624 WARN  [restartedMain] c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2018-04-08 19:46:14.072 WARN  [restartedMain] c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2018-04-08 19:49:26.022 WARN  [http-nio-8781-exec-2] o.s.web.servlet.PageNotFound - No mapping found for HTTP request with URI [/product/sku/modelList] in DispatcherServlet with name 'dispatcherServlet'
+2018-04-08 19:49:26.077 WARN  [http-nio-8781-exec-2] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved exception caused by Handler execution: org.springframework.web.servlet.NoHandlerFoundException: No handler found for POST /product/sku/modelList

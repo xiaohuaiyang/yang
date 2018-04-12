@@ -1,0 +1,669 @@
+2018-04-10 00:03:19.443 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 00:03:38.655 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 00:03:38.875 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 00:08:19.459 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 00:08:38.905 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 00:08:39.128 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 00:13:19.471 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 00:13:39.156 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 00:13:39.373 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 00:18:19.483 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 00:18:39.401 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 00:18:39.619 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 00:23:19.495 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 00:23:39.647 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 00:23:39.861 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 00:28:19.507 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 00:28:39.895 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 00:28:40.122 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 00:33:19.519 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 00:33:40.152 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 00:33:40.365 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 00:38:19.531 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 00:38:40.396 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 00:38:40.611 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 00:43:19.543 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 00:43:40.643 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 00:43:40.859 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 00:48:19.555 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 00:48:40.886 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 00:48:41.107 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 00:53:19.567 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 00:53:41.142 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 00:53:41.356 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 00:58:19.579 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 00:58:41.385 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 00:58:41.595 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 01:03:19.591 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 01:03:41.628 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 01:03:41.839 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 01:08:19.603 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 01:08:41.867 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 01:08:42.122 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 01:13:19.615 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 01:13:42.151 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 01:13:42.417 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 01:18:19.627 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 01:18:42.449 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 01:18:42.663 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 01:23:19.639 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 01:23:42.694 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 01:23:42.946 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 01:28:19.651 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 01:28:42.973 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 01:28:43.193 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 01:33:19.663 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 01:33:43.222 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 01:33:43.439 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 01:38:19.675 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 01:38:43.470 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 01:38:43.685 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 01:43:19.687 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 01:43:43.717 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 01:43:43.932 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 01:48:19.699 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 01:48:43.964 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 01:48:44.180 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 01:53:19.711 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 01:53:44.205 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 01:53:44.419 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 01:58:19.723 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 01:58:44.450 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 01:58:44.659 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 02:03:19.735 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 02:03:44.687 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 02:03:44.896 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 02:08:19.747 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 02:08:44.929 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 02:08:45.144 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 02:13:19.759 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 02:13:45.175 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 02:13:45.391 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 02:18:19.771 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 02:18:45.426 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 02:18:45.643 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 02:23:19.783 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 02:23:45.673 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 02:23:45.932 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 02:28:19.795 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 02:28:45.962 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 02:28:46.219 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 02:33:19.807 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 02:33:46.249 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 02:33:46.548 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 02:38:19.819 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 02:38:46.578 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 02:38:46.791 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 02:43:19.831 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 02:43:46.821 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 02:43:47.039 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 02:48:19.843 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 02:48:47.068 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 02:48:47.286 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 02:53:19.855 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 02:53:47.316 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 02:53:47.601 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 02:58:19.867 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 02:58:47.630 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 02:58:47.851 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 03:03:19.879 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 03:03:47.876 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 03:03:48.097 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 03:08:19.891 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 03:08:48.127 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 03:08:48.344 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 03:13:19.903 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 03:13:48.379 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 03:13:48.592 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 03:18:19.915 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 03:18:48.624 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 03:18:48.873 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 03:23:19.927 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 03:23:48.906 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 03:23:49.121 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 03:28:19.986 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 03:28:49.228 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 03:28:49.439 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 03:33:20.265 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 03:33:49.716 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 03:33:49.979 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 03:38:20.358 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 03:38:50.088 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 03:38:50.320 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 03:43:20.395 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 03:43:50.370 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 03:43:50.660 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 03:48:20.407 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 03:48:50.690 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 03:48:50.954 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 03:53:20.419 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 03:53:50.983 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 03:53:51.252 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 03:58:20.431 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 03:58:51.281 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 03:58:51.529 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 04:03:20.443 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 04:03:51.559 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 04:03:51.779 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 04:08:20.455 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 04:08:51.810 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 04:08:52.021 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 04:13:20.467 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 04:13:52.047 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 04:13:52.270 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 04:18:20.479 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 04:18:52.298 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 04:18:52.513 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 04:23:20.491 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 04:23:52.543 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 04:23:52.755 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 04:28:20.503 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 04:28:52.785 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 04:28:53.006 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 04:33:20.515 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 04:33:53.034 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 04:33:53.248 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 04:38:20.527 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 04:38:53.275 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 04:38:53.495 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 04:43:20.539 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 04:43:53.523 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 04:43:53.743 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 04:48:20.551 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 04:48:53.771 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 04:48:53.992 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 04:53:20.563 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 04:53:54.022 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 04:53:54.231 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 04:58:20.575 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 04:58:54.261 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 04:58:54.470 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 05:03:20.587 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 05:03:54.497 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 05:03:54.716 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 05:08:20.599 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 05:08:54.742 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 05:08:55.003 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 05:13:20.611 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 05:13:55.029 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 05:13:55.286 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 05:18:20.623 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 05:18:55.313 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 05:18:55.529 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 05:23:20.635 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 05:23:55.558 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 05:23:55.776 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 05:28:20.647 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 05:28:55.809 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 05:28:56.029 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 05:33:20.659 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 05:33:56.056 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 05:33:56.291 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 05:38:20.671 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 05:38:56.319 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 05:38:56.537 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 05:43:20.683 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 05:43:56.567 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 05:43:56.784 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 05:48:20.695 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 05:48:56.815 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 05:48:57.033 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 05:53:20.707 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 05:53:57.066 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 05:53:57.285 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 05:58:20.719 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 05:58:57.311 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 05:58:57.526 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 06:03:20.731 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 06:03:57.554 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 06:03:57.768 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 06:08:20.743 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 06:08:57.795 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 06:08:58.023 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 06:13:20.755 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 06:13:58.052 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 06:13:58.271 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 06:18:20.767 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 06:18:58.298 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 06:18:58.520 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 06:23:20.779 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 06:23:58.549 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 06:23:58.803 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 06:28:20.791 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 06:28:58.831 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 06:28:59.095 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 06:33:20.803 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 06:33:59.124 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 06:33:59.460 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 06:38:20.815 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 06:38:59.488 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 06:38:59.701 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 06:43:20.827 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 06:43:59.730 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 06:43:59.952 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 06:48:20.839 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 06:48:59.980 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 06:49:00.197 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 06:53:20.851 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 06:54:00.229 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 06:54:00.443 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 06:58:20.863 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 06:59:00.472 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 06:59:00.741 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 07:03:20.875 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 07:04:00.770 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 07:04:00.994 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 07:08:20.887 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 07:09:01.024 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 07:09:01.279 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 07:13:20.899 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 07:14:01.312 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 07:14:01.533 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 07:18:20.911 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 07:19:01.562 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 07:19:01.784 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 07:23:20.923 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 07:24:01.815 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 07:24:02.073 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 07:28:20.935 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 07:29:02.103 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 07:29:02.531 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 07:33:20.947 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 07:34:02.562 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 07:34:02.768 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 07:38:20.959 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 07:39:02.799 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 07:39:03.019 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 07:43:20.971 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 07:44:03.052 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 07:44:03.266 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 07:48:20.983 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 07:49:03.298 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 07:49:03.508 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 07:53:20.995 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 07:54:03.537 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 07:54:03.749 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 07:58:21.007 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 07:59:03.782 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 07:59:04.000 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 08:03:21.019 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 08:04:04.032 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 08:04:04.252 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 08:08:21.031 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 08:09:04.281 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 08:09:04.507 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 08:13:21.043 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 08:14:04.533 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 08:14:04.796 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 08:18:21.055 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 08:19:04.827 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 08:19:05.060 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 08:23:21.067 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 08:24:05.088 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 08:24:05.393 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 08:28:21.079 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 08:29:05.424 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 08:29:05.674 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 08:33:21.091 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 08:34:05.701 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 08:34:05.931 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 08:38:21.103 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 08:39:05.961 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 08:39:06.172 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 08:43:21.115 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 08:44:06.201 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 08:44:06.414 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 08:48:21.127 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 08:49:06.443 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 08:49:06.653 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 08:53:21.139 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 08:54:06.685 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 08:54:06.900 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 08:58:21.151 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 08:59:06.932 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 08:59:07.149 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 09:03:21.163 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 09:04:07.179 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 09:04:07.404 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 09:08:21.175 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 09:09:07.437 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 09:09:07.713 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 09:13:21.187 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 09:14:07.742 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 09:14:08.017 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 09:18:21.199 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 09:19:08.049 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 09:19:08.261 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 09:23:21.211 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 09:24:08.290 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 09:24:08.501 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 09:28:21.223 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 09:29:08.528 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 09:29:08.747 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 09:33:21.235 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 09:34:08.775 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 09:34:08.991 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 09:38:21.247 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 09:39:09.020 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 09:39:09.237 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 09:43:21.259 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 09:44:09.266 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 09:44:09.480 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 09:48:21.271 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 09:49:09.508 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 09:49:09.725 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 09:53:21.283 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 09:54:09.752 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 09:54:09.965 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 09:58:21.295 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 09:59:09.991 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 09:59:10.201 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 10:03:21.307 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 10:04:10.226 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 10:04:10.434 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 10:08:21.319 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 10:09:10.466 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 10:09:10.688 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 10:13:21.331 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 10:14:10.717 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 10:14:10.935 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 10:18:21.343 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 10:19:10.969 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 10:19:11.225 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 10:23:21.355 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 10:24:11.252 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 10:24:11.614 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 10:28:21.367 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 10:29:11.642 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 10:29:11.995 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 10:33:21.379 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 10:34:12.023 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 10:34:12.390 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 10:38:21.391 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 10:39:12.418 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 10:39:12.874 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 10:43:21.403 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 10:44:12.900 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 10:44:13.111 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 10:48:21.415 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 10:49:13.136 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 10:49:13.354 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 10:53:21.427 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 10:54:13.385 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 10:54:13.606 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 10:58:21.439 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 10:59:13.634 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 10:59:13.848 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 11:03:21.451 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 11:04:13.879 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 11:04:14.092 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 11:08:21.463 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 11:09:14.121 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 11:09:14.335 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 11:13:21.475 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 11:14:14.367 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 11:14:14.575 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 11:18:21.487 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 11:19:14.601 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 11:19:14.817 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 11:23:21.499 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 11:24:14.866 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 11:24:15.094 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 11:26:20.926 INFO  [task-scheduler-7] o.s.i.c.kryo.CompositeKryoRegistrar - registering [40, java.io.File] with serializer org.springframework.integration.codec.kryo.FileSerializer
+2018-04-10 11:26:23.347 INFO  [http-nio-8793-exec-5] c.s.erp.sys.service.PageService - 调用地址 http://10.20.0.152:8785//qctest/ngReasonList
+2018-04-10 11:26:23.349 INFO  [http-nio-8793-exec-5] c.s.erp.sys.service.PageService - 调用参数 {"configId":7,"pageNum":1,"pageSize":10,"userId":3005,"query":{"result_create_date_DTLTE":"2018-04-10 23:59:59","filterSql":" result.create_date <= #{result_create_date_DTLTE} and result.create_date >= #{result_create_date_DTGTE}","result_create_date_DTGTE":"2018-03-11 00:00:00"},"serviceName":"erp-order","queryUrl":"/qctest/ngReasonList","exportUrl":"/qctest/exportNgReasonData"}
+2018-04-10 11:28:21.511 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 11:29:15.126 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 11:29:15.341 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 11:33:21.523 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 11:34:15.372 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 11:34:15.594 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 11:38:21.535 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 11:39:15.623 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 11:39:15.838 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 11:43:21.547 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 11:44:15.866 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 11:44:16.129 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 11:48:21.559 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 11:49:16.159 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 11:49:16.430 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 11:53:21.571 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 11:54:16.462 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 11:54:16.719 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 11:58:21.583 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 11:59:16.751 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 11:59:17.020 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 12:03:21.595 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 12:04:17.048 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 12:04:17.288 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 12:08:21.607 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 12:09:17.320 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 12:09:17.567 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 12:13:21.619 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 12:14:17.596 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 12:14:17.817 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 12:18:21.631 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 12:19:17.847 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 12:19:18.060 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 12:23:21.643 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 12:24:18.089 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 12:24:18.303 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 12:28:21.655 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 12:29:18.330 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 12:29:18.544 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 12:33:21.667 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 12:34:18.612 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 12:34:18.827 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 12:38:21.959 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 12:39:19.135 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 12:39:19.341 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 12:43:22.103 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 12:44:19.481 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 12:44:19.692 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 12:48:22.151 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 12:49:19.750 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 12:49:19.959 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 12:53:22.165 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 12:54:19.988 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 12:54:20.202 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 12:58:22.177 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 12:59:20.231 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 12:59:20.439 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 13:03:22.189 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 13:04:20.468 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 13:04:20.732 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 13:08:22.201 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 13:09:20.761 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 13:09:21.022 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 13:13:22.213 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 13:14:21.054 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 13:14:21.319 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 13:18:22.225 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 13:19:21.346 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 13:19:21.612 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 13:23:22.237 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 13:24:21.639 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 13:24:21.849 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 13:28:22.249 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 13:29:21.877 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 13:29:22.086 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 13:33:22.261 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 13:34:22.114 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 13:34:22.327 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 13:38:22.273 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 13:39:22.357 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 13:39:22.573 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 13:43:22.285 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 13:44:22.602 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 13:44:22.869 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 13:48:22.297 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 13:49:22.900 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 13:49:23.119 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 13:53:22.309 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 13:54:23.187 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 13:54:23.409 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 13:58:22.321 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 13:59:23.436 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 13:59:23.667 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 14:03:22.333 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 14:04:23.697 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 14:04:23.917 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 14:08:22.345 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 14:09:23.948 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 14:09:24.163 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 14:13:22.357 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 14:14:24.198 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 14:14:24.461 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 14:18:22.369 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 14:19:24.490 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 14:19:24.706 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 14:23:22.381 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 14:24:24.732 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 14:24:24.945 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 14:28:22.393 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 14:29:24.973 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 14:29:25.182 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 14:33:22.405 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 14:34:25.212 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 14:34:25.445 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 14:38:22.417 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 14:39:25.472 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 14:39:25.680 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 14:43:22.429 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 14:44:25.713 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 14:44:25.966 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 14:48:22.441 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 14:49:25.993 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 14:49:26.204 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 14:53:22.453 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 14:54:26.234 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 14:54:26.446 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 14:58:22.465 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 14:59:26.476 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 14:59:26.723 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 15:03:22.477 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 15:04:26.752 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 15:04:26.970 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 15:08:22.489 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 15:09:27.000 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 15:09:27.216 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 15:13:22.501 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 15:14:27.244 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 15:14:27.485 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 15:18:22.513 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 15:19:27.513 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 15:19:27.723 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 15:23:22.525 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 15:24:27.756 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 15:24:27.989 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 15:28:22.537 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 15:29:28.019 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 15:29:28.228 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 15:33:22.549 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 15:34:28.259 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 15:34:28.486 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 15:38:22.561 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 15:39:28.517 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 15:39:28.744 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 15:43:22.573 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 15:44:28.776 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 15:44:29.004 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 15:48:22.585 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 15:49:29.031 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 15:49:29.285 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 15:53:22.597 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 15:54:29.317 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 15:54:29.575 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 15:58:22.609 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 15:59:29.607 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 15:59:29.888 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 16:03:22.621 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 16:04:29.920 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 16:04:30.183 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 16:08:22.633 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 16:09:30.211 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 16:09:30.446 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 16:13:22.645 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 16:14:30.472 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 16:14:30.689 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 16:18:22.657 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 16:19:30.719 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 16:19:30.933 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 16:23:22.669 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 16:24:30.964 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 16:24:31.201 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 16:28:22.681 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 16:29:31.234 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 16:29:31.446 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 16:33:22.693 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 16:34:31.479 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 16:34:31.690 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 16:38:22.705 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 16:39:31.720 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 16:39:31.932 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 16:43:22.717 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 16:44:31.965 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 16:44:32.202 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 16:48:22.729 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 16:49:32.233 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 16:49:32.454 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 16:53:22.741 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 16:54:32.483 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 16:54:32.704 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 16:58:22.753 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 16:59:32.734 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 16:59:32.952 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 17:03:22.765 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 17:04:32.983 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 17:04:33.196 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 17:08:22.777 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 17:09:33.224 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 17:09:33.433 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 17:13:22.789 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 17:14:33.465 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 17:14:33.687 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 17:18:22.801 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 17:19:33.715 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 17:19:33.977 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 17:23:22.813 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 17:24:34.005 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 17:24:34.220 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 17:28:22.825 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 17:29:34.250 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 17:29:34.469 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 17:33:22.837 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 17:34:34.496 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 17:34:34.720 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 17:38:22.849 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 17:39:34.749 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 17:39:34.965 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 17:43:22.861 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 17:44:34.994 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 17:44:35.210 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 17:48:22.873 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 17:49:35.240 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 17:49:35.459 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 17:53:22.885 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 17:54:35.486 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 17:54:35.708 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 17:58:22.897 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 17:59:35.743 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 17:59:35.966 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 18:03:22.909 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 18:04:35.996 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 18:04:36.209 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 18:08:22.921 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 18:09:36.238 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 18:09:36.494 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 18:13:22.933 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 18:14:36.526 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 18:14:36.782 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 18:18:22.945 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 18:19:36.814 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 18:19:37.030 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 18:23:22.958 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 18:24:37.062 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 18:24:37.280 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null
+2018-04-10 18:28:22.970 INFO  [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2018-04-10 18:29:37.310 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Fetching config from server at: http://10.20.0.131:8763/
+2018-04-10 18:29:37.523 INFO  [DiscoveryClient-InstanceInfoReplicator-0] o.s.c.c.c.ConfigServicePropertySourceLocator - Located environment: name=erp-sys, profiles=[dev], label=master, version=5c43b33115804be4f736ff9fa51814125d3af0d5, state=null

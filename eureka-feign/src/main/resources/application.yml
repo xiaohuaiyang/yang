@@ -7,3 +7,8 @@ server:
 spring:
   application:
     name: eureka-feign
+
+
+feign:
+   hystrix:
+       enabled: true
