@@ -1,8 +1,3 @@
-2018-04-09 10:24:01.340 WARN  [http-nio-8781-exec-8] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved exception caused by Handler execution: java.lang.NullPointerException
-2018-04-09 10:26:44.160 WARN  [http-nio-8781-exec-10] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved exception caused by Handler execution: java.lang.NullPointerException
-2018-04-09 10:30:17.893 WARN  [http-nio-8781-exec-2] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved exception caused by Handler execution: java.lang.NullPointerException
-2018-04-09 10:30:22.935 WARN  [http-nio-8781-exec-3] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved exception caused by Handler execution: java.lang.NullPointerException
-2018-04-09 11:28:37.076 WARN  [restartedMain] c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
-2018-04-09 11:30:03.122 WARN  [restartedMain] c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
-2018-04-09 17:41:03.749 WARN  [main] c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
-2018-04-09 17:42:49.190 WARN  [main] c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2018-05-09 11:10:07.888 WARN  [main] c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2018-05-09 11:10:10.852 WARN  [main] c.n.c.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2018-05-09 13:39:46.356 WARN  [AMQP Connection 10.20.0.153:5672] c.r.c.impl.ForgivingExceptionHandler - An unexpected connection driver error occured (Exception message: Connection reset)

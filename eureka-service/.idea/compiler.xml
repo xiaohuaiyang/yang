@@ -6,11 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="demo" />
-        <module name="demo (1)" />
-        <module name="demo (2)" />
-        <module name="eureka-feign" />
-        <module name="springcloud" />
+        <module name="erp-scm" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -18,7 +14,9 @@
       <module name="demo" target="1.8" />
       <module name="demo (1)" target="1.8" />
       <module name="demo (2)" target="1.8" />
+      <module name="erp-pickup" target="1.8" />
       <module name="erp-product" target="1.8" />
+      <module name="erp-scm" target="1.8" />
       <module name="erp-sys" target="1.8" />
       <module name="eureka-feign" target="1.8" />
       <module name="eureka-service" target="1.8" />
